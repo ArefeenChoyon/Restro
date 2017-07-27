@@ -1,0 +1,2 @@
+1.http://localhost/restro/restro/
+2.http://localhost/restro/restro/restaurant.php
